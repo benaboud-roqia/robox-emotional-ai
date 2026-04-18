@@ -156,10 +156,11 @@ Le rapport généré contient :
 |---|---|
 | **BENABOUD Roqia** | AI & SD|
 | **BENABOUD Salah Eddine** | SI |
-| **BENSAID Roxane Céline** |ISIK|
+| **BENSAID Roxane Céline** |ISil|
+
 
 </div>
-
+ Encadrents: TOLBA ZAKARIA , DEHIMI NOUR EL HOUDA 
 ---
 <img width="3452" height="1792" alt="C1" src="https://github.com/user-attachments/assets/3c4ccfbc-3d63-406b-b21d-6b1085235143" />
 <img width="3437" height="1812" alt="C2" src="https://github.com/user-attachments/assets/4ba27353-a065-4e2d-9e49-707f25a3a110" />

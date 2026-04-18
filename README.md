@@ -154,13 +154,22 @@ Le rapport généré contient :
 
 | Développeur | Rôle |
 |---|---|
-| **BENABOUD Roqia** | Lead Developer & UI/UX |
-| **BENABOUD Salah Eddine** | Backend & AI Integration |
-| **BENSAID Roxane Céline** | NLP & Data Analysis |
+| **BENABOUD Roqia** | AI & SD|
+| **BENABOUD Salah Eddine** | SI |
+| **BENSAID Roxane Céline** |ISIK|
 
 </div>
 
 ---
+<img width="3452" height="1792" alt="C1" src="https://github.com/user-attachments/assets/3c4ccfbc-3d63-406b-b21d-6b1085235143" />
+<img width="3437" height="1812" alt="C2" src="https://github.com/user-attachments/assets/4ba27353-a065-4e2d-9e49-707f25a3a110" />
+<img width="1285" height="1445" alt="C3" src="https://github.com/user-attachments/assets/4a2252cf-caee-48d5-8d63-fed5500b6961" />
+<img width="2220" height="520" alt="image" src="https://github.com/user-attachments/assets/cb50a291-9142-40df-a589-5b35ec7db828" />
+<img width="2207" height="1625" alt="image" src="https://github.com/user-attachments/assets/820d4820-e2b3-47dd-8492-d061cf2a95de" />
+<img width="2215" height="757" alt="image" src="https://github.com/user-attachments/assets/43b5997a-c389-450d-85a8-09284eab9da9" />
+
+
+
 
 ## 📝 Licence
 

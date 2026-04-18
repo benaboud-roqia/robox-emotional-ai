@@ -1,0 +1,10 @@
+flask
+anthropic
+textblob
+vaderSentiment
+transformers
+torch
+Pillow
+langdetect
+reportlab
+gTTS
